@@ -34,4 +34,5 @@ g++ lab0/main.cpp -o lab0/hello.exe
 
 ## Git 练习
 
-已在本地创建分支，修改本介绍并进行合并。
+主分支练习：更新 README 内容。
+
