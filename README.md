@@ -11,16 +11,18 @@
 
 ## 图片
 
-![个人图片（待替换）](images/profile.svg)
+![煮面条算法流程图](screenshots/run01/02-煮面条流程图.png)
 
-请将占位图片替换为自己的图片。
+算法：准备锅、水和调料 → 将水烧开 → 有面条就煮面条，否则煮饺子 → 煮熟后关火，盛出调味。
+
+[算法步骤](lab1/algorithm.md) · [可编辑流程图](images/cooking-flow.drawio) · [流程图 PNG](images/cooking-flow.png)
 
 ## 已完成作品
 
 | 实验 | 内容 | 状态 |
 | --- | --- | --- |
 | lab0 | C++ Hello World | 已完成 |
-| lab1 | 待填写 | 未开始 |
+| lab1 | 煮面条算法与条件流程图 | 已完成 |
 | lab2 | 待填写 | 未开始 |
 
 ## 编译运行
@@ -45,5 +47,3 @@ g++ lab0/main.cpp -o lab0/hello.exe
 分支练习：补充 README 内容。
 
 已合并 readme-update 分支，保留两边内容并解决冲突。
-
-
