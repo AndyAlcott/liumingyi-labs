@@ -35,4 +35,7 @@ g++ lab0/main.cpp -o lab0/hello.exe
 ## Git 练习
 
 主分支练习：更新 README 内容。
+分支练习：补充 README 内容。
+
+已合并 readme-update 分支，保留两边内容并解决冲突。
 
